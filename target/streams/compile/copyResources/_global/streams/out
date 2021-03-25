@@ -1,0 +1,10 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/mtk/WorkSpace/MessagingApp/conf/application.conf,/home/mtk/WorkSpace/MessagingApp/target/scala-2.13/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/mtk/WorkSpace/MessagingApp/conf/akka.conf,/home/mtk/WorkSpace/MessagingApp/target/scala-2.13/classes/akka.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/mtk/WorkSpace/MessagingApp/conf/routes,/home/mtk/WorkSpace/MessagingApp/target/scala-2.13/classes/routes)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/mtk/WorkSpace/MessagingApp/conf/db.conf,/home/mtk/WorkSpace/MessagingApp/target/scala-2.13/classes/db.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/mtk/WorkSpace/MessagingApp/conf/logback.xml,/home/mtk/WorkSpace/MessagingApp/target/scala-2.13/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/mtk/WorkSpace/MessagingApp/conf/evolutions/message_db_write/1.sql,/home/mtk/WorkSpace/MessagingApp/target/scala-2.13/classes/evolutions/message_db_write/1.sql)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/mtk/WorkSpace/MessagingApp/conf/evolutions/career_carrier_write/1.sql,/home/mtk/WorkSpace/MessagingApp/target/scala-2.13/classes/evolutions/career_carrier_write/1.sql)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/mtk/WorkSpace/MessagingApp/conf/evolutions/message_db_read/1.sql,/home/mtk/WorkSpace/MessagingApp/target/scala-2.13/classes/evolutions/message_db_read/1.sql)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/mtk/WorkSpace/MessagingApp/conf/evolutions/career_carrier_read/1.sql,/home/mtk/WorkSpace/MessagingApp/target/scala-2.13/classes/evolutions/career_carrier_read/1.sql)[0m

@@ -1,0 +1,36 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+#User Related Routes
+GET    /users               controllers.UserController.getUserData()
+
+POST   /createUser          controllers.UserController.createUser(request: Request)
+
+POST   /addContact          controllers.UserController.addToContact(request: Request)
+
+GET    /getContactsOnline   controllers.UserController.getContactsOnline(userId :java.lang.Long)
+
+POST   /setActiveInactive   controllers.UserController.setActiveInactive(request: Request)
+
+
+#GroupRelated Routes
+POST  /createGroup         controllers.GroupController.createGroup(request: Request)
+
+GET   /getGroupMembers    controllers.GroupController.getGroupMembers(userId : java.lang.Long,groupId : java.lang.Long)
+
+POST  /addToGroup          controllers.GroupController.addToGroup(request: Request)
+
+
+
+#Message Controller
+
+POST    /sendMessage       controllers.MessageController.sendMessage(request: Request)
+
+GET     /getMessageWindow  controllers.MessageController.getMessageWindow(fromUserId: java.lang.Long,receiversId: java.lang.Long,isGroupData: java.lang.Boolean)
+
+
+
+
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)

@@ -1,0 +1,8 @@
+[0m[[0m[31merror[0m] [0m[0m/home/mtk/WorkSpace/MessagingApp/app/controllers/AdminController.java:24:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class AdminService[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.AdminController[0m
+[0m[[0m[31merror[0m] [0m[0mAdminService[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mtk/WorkSpace/MessagingApp/app/controllers/AdminController.java:27:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class AdminService[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.AdminController[0m
+[0m[[0m[31merror[0m] [0m[0mAdminService[0m
